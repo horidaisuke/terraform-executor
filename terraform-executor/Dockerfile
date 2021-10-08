@@ -9,4 +9,5 @@ RUN apk update \
     zip \
  && curl -sL https://releases.hashicorp.com/terraform/${TERRAFORM_VERSION}/terraform_${TERRAFORM_VERSION}_linux_amd64.zip -o terraform.zip \
  && unzip -q terraform.zip \
- && rm -f terraform.zip
+ && rm -f terraform.zip \
+ && rm -rf /var/cache/apk/*
