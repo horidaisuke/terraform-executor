@@ -17,6 +17,8 @@ executors:
 
 ## Tags
 
+* `19.03.15-terraform-0.12.9`, `latest`
+* 
 ## License
 
 View [license information](https://github.com/horidaisuke/terraform-executor/blob/main/LICENSE) for the software contained in this image.
