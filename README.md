@@ -17,7 +17,7 @@ executors:
 
 ## Tags
 
-* `20.10.4-terraform-1.0.11`, `latest`
+* `20.10.4-terraform-1.1.4`, `latest`
 
 ## License
 
