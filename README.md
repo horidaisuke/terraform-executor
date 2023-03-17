@@ -17,7 +17,7 @@ executors:
 
 ## Tags
 
-* `18.09.9-terraform-1.3.9`, `latest`
+* `18.09.9-terraform-1.4.2`, `latest`
 
 ## License
 
