@@ -1,4 +1,4 @@
-FROM library/docker:20.10.23
+FROM library/docker:20.10.24
 ENV TERRAFORM_VERSION 1.4.2
 WORKDIR /usr/local/bin
 RUN apk update \
