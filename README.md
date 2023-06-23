@@ -17,7 +17,7 @@ executors:
 
 ## Tags
 
-* `17.12.1-terraform-1.4.6`, `latest`
+* `17.12.1-terraform-1.5.1`, `latest`
 
 ## License
 
