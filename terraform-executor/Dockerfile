@@ -1,5 +1,5 @@
 FROM library/docker:23.0.6
-ENV TERRAFORM_VERSION 1.5.7
+ENV TERRAFORM_VERSION 1.6.2
 WORKDIR /usr/local/bin
 RUN apk update \
  && apk add --no-cache \
