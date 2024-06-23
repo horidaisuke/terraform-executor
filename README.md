@@ -19,7 +19,7 @@ executors:
 
 Tags name is made from join of [simple tags of docker](https://hub.docker.com/_/docker) and [versions of terraform](https://github.com/hashicorp/terraform/tags).
 
-* `17.12.1-terraform-1.7.5`, `latest`
+* `17.12.1-terraform-1.8.5`, `latest`
 
 ## License
 
