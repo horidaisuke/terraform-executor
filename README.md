@@ -1,5 +1,7 @@
-# terraform-executor
-Circleci executor installed terraform
+# [Departed] terraform-executor
+
+This repository will be no longer maintenance.
+Recommend to use [Official Orb](https://circleci.com/developer/ja/orbs/orb/circleci/terraform).
 
 ## Usage
 
